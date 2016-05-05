@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript">
+        function disp_alert()
+        {
+            alert("我是警告框！！")
+        }
+        function douqing() {
+            alert("hahahha!")
+        }
+        function test01() {
+            this.removeAttribute('href');
+            this.innerHTML='提交中';
+        }
+    </script>
+     <style>
+         a{
+             border: #d5d5d5 1px solid;
+             font-size: 20px;
+             font-family: Arial;
+             background-color: #d5d5d5;
+         }
+    </style>
+</head>
+<body>
+<!--<a href="javascript:void(0);" onclick="this.innerHTML='提交中';this.onclick='';this.removeAttribute('href')" class="btn btn-default" type="submit" onclick="test01()" id="button1">一排一列</a>-->
+<input type="button" onclick="douqing()" value="提交" />
+
+
+<input type="button" onclick="disp_alert()" value="显示警告框" />
+
+<a href="javascript:void(0);"  onclick="this.innerHTML='已选';this.onclick='';this.removeAttribute('href')">按钮</a>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="../js/bootstrap.min.js"></script>
+</body>
+</html>
