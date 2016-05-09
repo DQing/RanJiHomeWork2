@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../image/5.jpg">
+
+    <title>办理会员</title>
+
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/about.css" rel="stylesheet">
+    <script>
+        function message() {
+            alert("系统出现问题请致电：47383-439");
+        }
+    </script>
+</head>
+
+<body>
+
+<div class="blog-masthead">
+    <div class="container">
+        <nav class="blog-nav">
+            <a class="blog-nav-item" href="../html/index.html">首页</a>
+            <a class="blog-nav-item " href="../html/resign.html">注册</a>
+            <a class="blog-nav-item" href="../html/about.html">关于</a>
+            <a class="blog-nav-item" href="javascript:void(0);" onclick="message()">帮助</a>
+
+        </nav>
+    </div>
+</div>
+<br>
+<ul class="nav nav-tabs  nav-justified">
+    <li role="presentation"><a href="../html/sale.html">正在热映</a></li>
+    <li role="presentation"><a href="../html/sale1.html">场次购票</a></li>
+    <li role="presentation"><a href="../html/OutSale.html">退票</a></li>
+    <li role="presentation"  class="active"><a href="#">办理会员</a></li>
+</ul>
+<br><br>
+<div class="container">
+    <form>
+        <div class="form-group">
+            <label for="exampleInputPassword1">姓名</label>
+            <input type="password" class="form-control" id="exampleInputPassword1" placeholder="姓名">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">电话</label>
+            <input type="email" class="form-control" id="exampleInputEmail2" placeholder="电话">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">额度(100元,150元,200元,300元)</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="额度">
+        </div>
+        <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+            办理
+        </button>
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">消息框</h4>
+                    </div>
+                    <div class="modal-body">
+                        办理成功！！！
+                    </div>
+                    <div class="modal-footer">
+                        <a type="button" class="btn btn-default" data-dismiss="modal" onclick="javascript:top.location='sale.html';" >ok</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<footer class="text-center">
+    <p>ALLICE提供技术支持@Allice Team</p>
+    <p>
+        <a href="#">Back to top</a>
+    </p>
+</footer>
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="../js/ie10-viewport-bug-workaround.js"></script>
+</body>
+</html>
