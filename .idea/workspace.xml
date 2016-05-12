@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44b585e2-ddf0-478f-9b1d-0ab966059bc3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/css/ticket.css" afterPath="$PROJECT_DIR$/bootstrap/css/ticket.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/OutSale.html" afterPath="$PROJECT_DIR$/bootstrap/html/OutSale.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/Traffic.html" afterPath="$PROJECT_DIR$/bootstrap/html/Traffic.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/about.html" afterPath="$PROJECT_DIR$/bootstrap/html/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/guanliyanchuting.html" afterPath="$PROJECT_DIR$/bootstrap/html/guanliyanchuting.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/huiyuan.html" afterPath="$PROJECT_DIR$/bootstrap/html/huiyuan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/manage.html" afterPath="$PROJECT_DIR$/bootstrap/html/manage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/management.html" afterPath="$PROJECT_DIR$/bootstrap/html/management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/management1.html" afterPath="$PROJECT_DIR$/bootstrap/html/management1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/management2.html" afterPath="$PROJECT_DIR$/bootstrap/html/management2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/member.html" afterPath="$PROJECT_DIR$/bootstrap/html/member.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/member1.html" afterPath="$PROJECT_DIR$/bootstrap/html/member1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/member2.html" afterPath="$PROJECT_DIR$/bootstrap/html/member2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/member3.html" afterPath="$PROJECT_DIR$/bootstrap/html/member3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/member4.html" afterPath="$PROJECT_DIR$/bootstrap/html/member4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/resign.html" afterPath="$PROJECT_DIR$/bootstrap/html/resign.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/sale.html" afterPath="$PROJECT_DIR$/bootstrap/html/sale.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/sale1.html" afterPath="$PROJECT_DIR$/bootstrap/html/sale1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/sale2.html" afterPath="$PROJECT_DIR$/bootstrap/html/sale2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/sale3.html" afterPath="$PROJECT_DIR$/bootstrap/html/sale3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/html/ticket.html" afterPath="$PROJECT_DIR$/bootstrap/html/ticket.html" />
-    </list>
+    <list default="true" id="44b585e2-ddf0-478f-9b1d-0ab966059bc3" name="Default" comment="" />
     <ignored path="RanJiHomeWork2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -127,7 +105,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html-and-dom-DQing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootstrap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
@@ -191,12 +169,12 @@
       <option name="presentableId" value="Default" />
       <updated>1462793187516</updated>
       <workItem from="1462793188701" duration="66000" />
-      <workItem from="1462958558490" duration="5127000" />
+      <workItem from="1462958558490" duration="7093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5193000" />
+    <option name="totallyTimeSpent" value="7159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
