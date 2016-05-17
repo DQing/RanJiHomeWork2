@@ -4,24 +4,26 @@ body{
     padding: 0;
 }
 .top{
-    margin-left: 100px;
+    margin-left: 20px;
     margin-top: 20px;
     width: 800px;
-    height: 50px;
+    heigh: 50px;
 
 }
 .content{
-    width: 40%;
+    width: 55%;
     height: 500px;
-    margin: 70px 120px ;
+    margin: 70px 50px;
     font-size: 20px;
     float: left;
+    /*border: rgba(1, 1, 1, 0.98) 2px solid;*/
 }
 #tick{
     width: 30%;
     height: 500px;
-    margin: 70px 100px;
+    margin: 70px 10px;
     float: right;
+    /*border: rgba(1, 1, 1, 0.98) 2px solid;*/
 }
 a{
     border: rgba(1, 1, 1, 0.98) 2px solid;
